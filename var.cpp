@@ -4,12 +4,12 @@
 // int	        4 bytes    	  -231 to 231-1
 // float	    4 bytes    	  N/A
 // double	    8 bytes    	  N/A
-// char	    1 byte	      -128 to 127
-// bool	    1 byte	      true / false
-// void	    N/A	          N/A    
+// char	        1 byte	      -128 to 127
+// bool	        1 byte	      true / false
+// void	        N/A	          N/A    
 // wchar_t	    2 or 4bytes	  1 wide character
 #include<iostream>
-#include<bits/stdc++.h>
+#include<bits/stdc++.h>    
 using namespace std;
 int main(){
     int number=5;//this is a integer var
